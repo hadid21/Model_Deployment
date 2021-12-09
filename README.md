@@ -46,3 +46,9 @@ Agar dapat memprediksi kucing atau anjing, data input model harus mengikuti form
 1. Anda akan diberikan URL untuk membuka website berupa `localhost:5000/` atau `127.0.0.1:5000/`.
 1. Buka URL dengan browser, coba masukkan gambar gajah atau singa yang ingin di prediksi.
 1. Anda akan diberikan prediksi bahwa pada gambar tersebut adalah gajah atau singa pada halaman website.
+
+
+## Anggota Kelompok
+
+- [Hadid Ray Aldy](https://www.github.com/hadid21) (201910370311329)  KETUA
+- Muhammad Fahriztya (201910370311309)
