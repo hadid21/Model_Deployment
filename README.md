@@ -1,4 +1,4 @@
-# Deployment Model CNN (Elephant vs Lion)
+# Deployment Model CNN Daun (Belimbing Wuluh vs Lidah Buaya)
 
 ## Deskripsi singkat
 
